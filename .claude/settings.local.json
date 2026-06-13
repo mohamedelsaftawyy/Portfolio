@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(pip3 install *)",
+      "Bash(python3 -c ' *)",
+      "Bash(cp \"/Users/mohamedsaftawy/Downloads/cv26.pdf\" \"/Users/mohamedsaftawy/Desktop/portfolio/resume.pdf\")",
+      "Bash(cp \"/Users/mohamedsaftawy/Desktop/Coursera 5QD3310Z8S35.pdf\" \"/Users/mohamedsaftawy/Desktop/portfolio/cert-linux-sql.pdf\")",
+      "Bash(cp \"/Users/mohamedsaftawy/Desktop/Coursera PLXSGZ77IDAQ.pdf\" \"/Users/mohamedsaftawy/Desktop/portfolio/cert-security-risks.pdf\")",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)"
+    ]
+  }
+}
